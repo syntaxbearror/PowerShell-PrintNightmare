@@ -6,4 +6,4 @@ workstations.ps1 is more a hardening script to blocking inbound remote printing 
 
 Read more on our blogs or broader / alternative methods over at https://www.syntaxbearror.io/blog/printnightmare-part-ii-print-spooler-remains-vulnerable-across-windows/
 
-For the blog that referenced this repository, view it at 
+For the blog that referenced this repository, view it at https://www.syntaxbearror.io/blog/printnightmare-part-iii-patching-remediation/
